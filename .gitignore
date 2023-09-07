@@ -1,0 +1,17 @@
+.idea
+*.iws
+*.ipr
+*.iml
+*.merge*
+catalog.xml
+target
+.settings
+.classpath
+.project
+.idea
+.sonar-ide.properties
+nbactions.xml
+nb-configuration.xml
+nbactions.xml
+maven.out.log
+dependency-reduced-pom.xml
