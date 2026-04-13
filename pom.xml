@@ -81,13 +81,13 @@
       <id>silverpeas</id>
       <name>Repository Silverpeas</name>
       <layout>default</layout>
-      <url>https://nexus3.silverpeas.org/repository/releases/</url>
+      <url>https://nexus3.silverpeas.org/repository/thirdparty/</url>
     </repository>
     <snapshotRepository>
       <id>silverpeas-snapshots</id>
       <name>Snapshots Repository Silverpeas</name>
       <layout>default</layout>
-      <url>https://nexus3.silverpeas.org/repository/snapshots/</url>
+      <url>https://nexus3.silverpeas.org/repository/thirdparty/</url>
     </snapshotRepository>
   </distributionManagement>
 
